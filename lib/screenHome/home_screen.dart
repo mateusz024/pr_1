@@ -54,7 +54,7 @@ class HomeScreen extends StatelessWidget {
           child: ElevatedButton(
             onPressed: () {},
             style: ElevatedButton.styleFrom(
-              backgroundColor: Colors.transparent, // Ustawienie koloru tła
+              backgroundColor: Colors.transparent,
               elevation: 0,
               padding: const EdgeInsets.all(0),
             ),
