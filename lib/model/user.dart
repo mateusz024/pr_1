@@ -1,10 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-//nie chcesz robić osobno finali z imionami, osobno z nazwiskami etc, takie rzeczy się
-//raczej nie zdarzają, masz do tego takie świetne narzędzie jak modele, możesz zrobić sobie model,
-//tutaj jest to model User i on może przyjmować wszystko co tylko zapragniesz
-
 class User {
   final String name;
   final String surname;
